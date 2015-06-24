@@ -1,0 +1,19 @@
+
+
+.smalllg
+{
+    width: 300px;
+    height: 100px;
+}
+
+smalllg
+{
+    width: 300px;
+}
+
+.smalllg
+{
+    width: 300px !important;
+    height: 100px !important;
+}
+
